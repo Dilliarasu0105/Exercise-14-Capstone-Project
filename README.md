@@ -1,8 +1,8 @@
 # Exercise-14-Capstone-Project
 # Capstone Project - Personal Finance Categorization and Summary Automation
 ~~~
-Name : M.JOHN PALL
-Reg. No : 212224040140 
+Name : DILLIARASU M
+Reg. No : 212223230049 
 ~~~
 
 ## Aim
